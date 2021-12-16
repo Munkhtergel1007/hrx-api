@@ -1,0 +1,9 @@
+{
+  "attendace_routers_all": {
+    "choose_time": "Цаг сонгоно уу",
+    "check_time": "Цаг шалгана уу",
+    "edit_attendance_error": "Ирц хадгалахад алдаа гарлаа",
+    "edit_attendance_success": "Ирц амжилттай хадгалагдлаа",
+    "attendance_not_found": "Ирц олдсонгүй"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "settings_routers_all": {
+    "bundle_request_exists": "Өмнөх цэнэглэлтийн хүсэлтэнд хариу өгөөгүй байна!",
+    "bundle_request_error": "Цэнэглэх хүсэлт илгээх үед алдаа гарлаа.",
+    "bundle_request_success": "Цэнэглэх хүсэлт амжилттай илгээгдлээ.",
+    "select_bundle": "Багцаа сонгоно уу!",
+    "domain_repetition": "Домэйн хаяг давхцлаа.",
+    "setting_edit_error": "Тохиргоо хадгалах үед алдаа гарлаа.",
+    "setting_edit_success": "Тохиргоо хадгалах үед алдаа гарлаа.",
+    "domain_requirements": "Домайн нь латин үсэг /a-z/ байх ёстой!",
+    "roleError": {
+      "name_insert": "Үүргийн нэр оруулна уу!",
+      "description_insert": "Үүргийн тайлбар оруулна уу!",
+      "choose_again": "'Үүрэг дахин сонгоно уу!'",
+      "choose_orientation": "Чиглүүлэх хөтөлбөр дахин сонгоно уу!",
+      "choose_job_description": "Ажлын байрны тодорхойлолт сонгоно уу!",
+      "orientation_not_found": "Чиглүүлэх хөтөлбөр олдсонгүй",
+      "job_description_not_found": "Ажлын байрны тодорхойлолт олдсонгүй"
+    },
+    "role_edit_error": "Үүрэг хадгалах үед алдаа гарлаа",
+    "role_edit_success": "Үүрэг амжилттай хадгаллаа",
+    "role_not_found": "Үүрэг олдсонгүй",
+    "role_delete_success": "Амжилттай устгалаа",
+
+    "tag_edit_error": "Тэмдэглэгээг хадгалахад алдаа гарлаа",
+    "tag_edit_success": "Тэмдэглэгээ амжилттай хадгалагдлаа",
+    "tag_not_found": "Тэмдэглэгээ олдсонгүй",
+    "tag_delete_success": "Тэмдэглэгээ амжилттай устгагдлаа",
+    "tag_delete_error": "Тэмдэглэгээ устгахад алдаа гарлаа",
+
+    "timetableError":{
+      "title_empty": "Цагийн хуваарийн нэрийг оруулна уу.",
+      "day_empty": "Цагийн хуваарийн өдрүүдийг оруулна уу.",
+      "hour_empty": "Цагийн хуваарийн цагуудыг оруулна уу.",
+      "employee_empty": "Цагийн хуваарийн ажилчдыг оруулна уу."
+    },
+
+    "can_change_own_company_worker_position": "Зөвхөн өөрийн компаний ажилтны албан тушаалыг буулгаж болно",
+
+    "user_edit_error": "Хэрэглэгчийг хадгалах үед алдаа гарлаа.",
+    "user_edit_success": "Хэрэглэгч амжилттай хадгалагдлаа",
+
+    "company_name_empty": "Компаний нэр оруулна уу.",
+    "companyDomainError": {
+      "insert": "Компаний domain оруулна уу.",
+      "short": "Компаний domain хэт богино байна.",
+      "long": "Компаний domain хэт урт байна.",
+      "latin": "Компаний domain-ийг зөвхөн латин үсгээр бичнэ үү.",
+      "exists": "Компаний domain давхцаж байна."
+    },
+    "can_create_subsidiary_from_head_company": "Охин компанийг зөвхөн толгой компаниас үүсгэнэ",
+    "user_info_repetition": "Хэрэглэгчийн мэдээлэл давхцаж байна."
+  }
+}

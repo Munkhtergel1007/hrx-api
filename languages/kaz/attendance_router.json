@@ -1,0 +1,9 @@
+{
+  "attendace_routers_all": {
+    "choose_time": "Уақытты таңдаңыз",
+    "check_time": "Уақытты тексеріңіз",
+    "edit_attendance_error": "Қатысуды сақтау кезінде қате орын алды",
+    "edit_attendance_success": "Қатысу сәтті сақталды",
+    "attendance_not_found": "Қатысушылар табылмады"
+  }
+}

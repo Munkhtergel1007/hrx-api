@@ -1,0 +1,54 @@
+{
+  "settings_routers_all": {
+    "bundle_request_exists": "Бұрынғы қайта зарядтау сұрауларына жауап берілген жоқ",
+    "bundle_request_error": "Зарядтау сұрауын жіберу кезінде қате орын алды",
+    "bundle_request_success": "Қайта зарядтау сұрауы сәтті жіберілді",
+    "select_bundle": "Пакет таңдаңыз",
+    "domain_repetition": "Домен мекенжайы қабаттасады",
+    "setting_edit_error": "Параметрлерді сақтау кезінде қате орын алды",
+    "setting_edit_success": "Орнату сәтті аяқталды",
+    "domain_requirements": "Домен латын әріптерімен (a-z) болуы керек",
+    "roleError": {
+      "name_insert": "Рөлге атау енгізіңіз",
+      "description_insert": "Рөлдің сипаттамасын енгізіңіз",
+      "choose_again": "Рөлді қайта таңдаңыз",
+      "choose_orientation": "Қайта бағыттау бағдарламасын қайта таңдаңыз",
+      "choose_job_description": "Жұмыс сипаттамасын таңдаңыз",
+      "orientation_not_found": "Ешбір сілтеме бағдарламасы табылмады",
+      "job_description_not_found": "Жұмыс сипаттамасы табылмады"
+    },
+    "role_edit_error": "Тапсырманы сақтау кезінде қате орын алды",
+    "role_edit_success": "Міндеттерін сәтті сақталды",
+    "role_not_found": "Міндеттеме табылмады",
+    "role_delete_success": "Сәтті жойылды",
+
+    "tag_edit_error": "Жазбаны сақтау кезінде қате орын алды",
+    "tag_edit_success": "Ескертпе сәтті сақталды",
+    "tag_not_found": "Ешбір ескертпелер табылмады",
+    "tag_delete_success": "Белгі сәтті жойылды",
+    "tag_delete_error": "Белгіні жою кезінде қате орын алды",
+
+    "timetableError":{
+      "title_empty": "Кесте атауын енгізіңіз",
+      "day_empty": "Жоспар күндерін енгізіңіз",
+      "hour_empty": "Кесте сағтын енгізіңіз",
+      "employee_empty": "Жұмыс кестесін қосыңыз"
+    },
+
+    "can_change_own_company_worker_position": "Сіздің компанияңыздың қызметкерлері ғана төмендетілуі мүмкін",
+
+    "user_edit_error": "Пайдаланушыны сақтау кезінде қате орын алды",
+    "user_edit_success": "Пайдаланушы сәтті сақталды",
+
+    "company_name_empty": "Компания атауын енгізіңіз",
+    "companyDomainError": {
+      "insert": "Компания доменін енгізіңіз",
+      "short": "Компанияның домені тым қысқа",
+      "long": "Компанияның домені тым ұзын",
+      "latin": "Компанияның доменін тек латын әріптерімен енгізіңіз",
+      "exists": "Компанияның домені қабаттасады"
+    },
+    "can_create_subsidiary_from_head_company": "Еншілес ұйымды тек бас компания жасайды",
+    "user_info_repetition": "Пайдаланушы ақпараты қабаттасады"
+  }
+}

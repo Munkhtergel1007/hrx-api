@@ -1,0 +1,14 @@
+{
+  "order_routers_all": {
+    "locationError": {
+      "insert": "Введите адрес!"
+    },
+    "idError": {
+      "insert": "Введите ID"
+    },
+    "statusError": {
+      "insert": "Введите ID"
+    },
+    "name_repetition": "Имена пересекаются"
+  }
+}

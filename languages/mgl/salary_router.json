@@ -1,0 +1,7 @@
+{
+  "salary_routers_all": {
+    "salary_not_found": "Цалин олдсонгүй",
+    "cannot_change_subsidiary_salary": "Охин компаний цалинг өөрчлөх боломжгүй",
+    "insert_salary": "Цалинг оруулна уу."
+  }
+}

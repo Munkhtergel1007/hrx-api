@@ -1,0 +1,9 @@
+{
+  "report_routers_all": {
+    "watch_successful": "Сәтті көрді",
+    "title_empty": "Тақырып енгізіңіз",
+    "choose_employee": "Жіберуші персоналды енгізіңіз",
+    "save_error": "Есепті сақтау кезінде қате орын алды",
+    "save_success": "Есеп сәтті сақталды"
+  }
+}

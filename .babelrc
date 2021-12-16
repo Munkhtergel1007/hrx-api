@@ -1,0 +1,23 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "6.14.1",
+          "uglify": true
+        }
+      }
+  ],"es2015", "stage-0"
+  ],
+  "plugins": [
+    "syntax-async-functions",
+    [
+      "transform-runtime",
+      {
+        "polyfill": false,
+        "regenerator": true
+      }
+    ]
+  ]
+}

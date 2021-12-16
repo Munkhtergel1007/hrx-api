@@ -1,0 +1,17 @@
+{
+  "workplan_routers_all": {
+    "workplan_edit_error": "Жұмыс жоспарын жүргізу кезінде қате орын алды",
+    "workplan_edit_success": "Жұмыс жоспары сәтті орындалды",
+    "workplan_month_exists": "Айдың жұмыс жоспары қамтылған",
+    "workplan_delete_error": "Жұмыс жоспарын жою кезінде қате орын алды",
+    "workplan_delete_success": "Жұмыс жоспары сәтті жойылды",
+    "workplan_not_found": "Жұмыс жоспары табылмады",
+    "workplan_job_edit_error": "Тапсырманы сақтау кезінде қате орын алды",
+    "workplan_job_edit_success": "Жұмыс сәтті сақталды",
+    "workplan_job_delete_error": "Тапсырманы жою кезінде қате орын алды",
+    "workplan_job_delete_success": "Тапсырма сәтті жойылды",
+    "workplan_job_not_found": "Жұмыс табылмады",
+    "accepted_job_not_found": "Сертификатталған жұмыс табылмады",
+    "percent_required": "Бағаны енгізіңіз"
+  }
+}

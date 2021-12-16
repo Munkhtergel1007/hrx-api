@@ -1,0 +1,107 @@
+{
+  "employee_routers_all": {
+    "family": {
+      "edit_error": "Произошла ошибка при сохранении семейной информации",
+      "edit_success": "Семейная информация успешно сохранена",
+      "delete_error": "Произошла ошибка при удалении члена семьи",
+      "delete_success": "Член семьи успешно удален"
+    },
+    "education": {
+      "points_error": "Баллы от 0 до 100",
+      "enrolled_date_error": "Проверить дату регистрации",
+      "graduated_date_error": "",
+      "edit_error": "Произошла ошибка при сохранении учебной информации",
+      "edit_success": "Образовательная информация успешно сохранена",
+      "delete_error": "Произошла ошибка при удалении учебной информации",
+      "delete_success": "Информация об образовании успешно удалена"
+    },
+    "qualification_training": {
+      "entry_date_error": "Проверить дату регистрации",
+      "exit_date_error": "",
+      "degree_date_error": "Проверить дату выдачи справки",
+      "edit_error": "Произошла ошибка во время обучения и курса",
+      "edit_success": "Обучение и курс успешно завершены",
+      "delete_error": "Произошла ошибка при изучении и прекращении курса",
+      "delete_success": "Учеба и курс успешно отменены"
+    },
+    "experience": {
+      "start_date_error": "Проверьте дату начала работы",
+      "end_date_error": "",
+      "degree_date_error": "Проверить дату выдачи справки",
+      "edit_error": "Произошла ошибка при сохранении опыта работы",
+      "edit_success": "Опыт работы успешно сохранен",
+      "delete_error": "Произошла ошибка при удалении опыта работы",
+      "delete_success": "Успешно ликвидированный опыт работы"
+    },
+    "skill": {
+      "edit_error": "",
+      "edit_success": "",
+      "delete_error": "",
+      "delete_success": ""
+    },
+    "served_military_empty": "Выберите военную службу",
+    "check_bank_account_integrity": "Введите полную банковскую информацию!",
+    "general_information": {
+      "edit_error": "Основная информация успешно сохранена",
+      "edit_success": "Произошла ошибка при обработке основной информации”.",
+      "card_id_repetition": "Номер карты перекрывается",
+      "choose_employee_user": "Выберите пользователя в качестве сотрудника."
+    },
+    "user": {
+      "creation_error": "Произошла ошибка при создании клиента",
+      "creation_success": "Клиент успешно создан",
+      "already_in_company": "Потребитель - сотрудник этой компании»."
+    },
+    "violation": {
+      "edit_error": "",
+      "edit_success": "",
+      "delete_error": "",
+      "delete_success": "",
+      "not_found": ""
+    },
+    "role": {
+      "change_error": "Произошла ошибка при смене обязанностей сотрудника",
+      "change_success": "Обязанности сотрудников успешно изменены"
+    },
+    "reference_letter": {
+      "enter_user": "",
+      "fire_employee_error": "Сотрудник допустил ошибку при сокращении",
+      "fire_employee_success": "Успешно уменьшено",
+      "fire_employee_request_sent": "Потребитель подал заявление об увольнении",
+      "not_boss": ""
+    },
+    "reward": {
+      "edit_error": "Произошла ошибка при сохранении бонуса",
+      "edit_success": "Бонусы успешно сохранены",
+      "delete_error": "Произошла ошибка при отмене бонуса",
+      "delete_success": "Бонусы успешно отменены",
+      "not_found": "Призов не найдено"
+    },
+    "break_not_found": "",
+    "break": {
+      "delete_success": "Успешно удалено",
+      "edit_success": "Успешно изменено",
+      "edit_error": "Невозможно изменить",
+      "able_to_delete_idle_decline_request": "Ожидающие и несанкционированные запросы могут быть удалены",
+      "reason_empty": "Причина не указана",
+      "date_wrong": "Не то время",
+      "type_wrong": "",
+      "request_already_sent": "Запрос отправлен",
+      "request_sent": "Запрос отправлен"
+    },
+    "vacation": {
+      "date_empty": "Выберите день",
+      "date_error": "",
+      "request_success": "Запрос на отпуск успешно отправлен",
+      "request_not_found": "",
+      "no_rest_success": "Успешный"
+    },
+    "timetable": {
+      "not_found": "Расписание не найдено"
+    },
+    "import": {
+      "success": "Успешно скопировано",
+      "empty": "Пусто"
+    }
+  }
+}

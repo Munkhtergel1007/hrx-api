@@ -1,0 +1,107 @@
+{
+  "employee_routers_all": {
+    "family": {
+      "edit_error": "Отбасы туралы ақпаратты сақтау кезінде қате орын алды",
+      "edit_success": "Отбасы туралы ақпарат сәтті сақталды",
+      "delete_error": "Отбасы мүшесін жою кезінде қате орын алды",
+      "delete_success": "Отбасы мүшесі сәтті жойылды"
+    },
+    "education": {
+      "points_error": "0-ден 100-ге дейінгі ұпайлар",
+      "enrolled_date_error": "Тіркеу уақытын тексеріңіз",
+      "graduated_date_error": "",
+      "edit_error": "Оқу ақпаратын сақтау кезінде қате орын алды",
+      "edit_success": "Оқу ақпараты сәтті сақталды",
+      "delete_error": "Оқулық ақпаратты жою кезінде қате орын алды.",
+      "delete_success": "Білім туралы ақпарат сәтті жойылды."
+    },
+    "qualification_training": {
+      "entry_date_error": "Тіркеу уақытын тексеріңіз",
+      "exit_date_error": "",
+      "degree_date_error": "Сертификаттың берілген күнін тексеріңіз",
+      "edit_error": "Оқыту мен курс жүргізү кезінде қате орын алды",
+      "edit_success": "Оқыту мен курс сәтті сақталды",
+      "delete_error": "Оқыту және курсты жою кезінде қате орын алды",
+      "delete_success": "Оқу және курс сәтті жойылды"
+    },
+    "experience": {
+      "start_date_error": "Жұмыстап бастаған күніңізді тексеріңіз",
+      "end_date_error": "",
+      "degree_date_error": "Сертификаттың берілген күнін тексеріңіз",
+      "edit_error": "Жұмыс тәжірибесін сақтау кезінде қате орын алды",
+      "edit_success": "Жұмыс тәжірибесі сәтті сақталды",
+      "delete_error": "Жұмыс тәжірибесін жою кезінде қате орын алды",
+      "delete_success": "Жұмыс тәжірибесі сәтті жойылды"
+    },
+    "skill": {
+      "edit_error": "",
+      "edit_success": "",
+      "delete_error": "",
+      "delete_success": ""
+    },
+    "served_military_empty": "Әскери қызметте болғаныңызды таңдаңыз",
+    "check_bank_account_integrity": "Толық банк ақпаратын енгізіңіз",
+    "general_information": {
+      "edit_error": "Негізгі мағұлмат сәтті сақталды",
+      "edit_success": "Негізгі ақпаратты өңдеу кезінде қате орын алды",
+      "card_id_repetition": "Карттың нөмірі қабаттасып жатыр",
+      "choose_employee_user": "Қызметкер ретінде пайдаланушыны таңдаңыз"
+    },
+    "user": {
+      "creation_error": "Тұтынушы жасау кезінде қате орын алды.",
+      "creation_success": "Тұтынушы сәтті жасалды.",
+      "already_in_company": "Тұтынушы осы компанияның қызметкері"
+    },
+    "violation": {
+      "edit_error": "",
+      "edit_success": "",
+      "delete_error": "",
+      "delete_success": "",
+      "not_found": ""
+    },
+    "role": {
+      "change_error": "Қызметкердің міндеттерін өзгерту кезінде қате орын алды",
+      "change_success": "Қызметкердің міндеттері сәтті өзгертілді"
+    },
+    "reference_letter": {
+      "enter_user": "",
+      "fire_employee_error": "Қызметкер қысқарту кезінде қателік жіберді",
+      "fire_employee_success": "Сәтті қысқартылды",
+      "fire_employee_request_sent": "Тұтынушыны жұмыстан шығару туралы өтініш жолдады",
+      "not_boss": ""
+    },
+    "reward": {
+      "edit_error": "Бонусты сақтау кезінде қате орын алды",
+      "edit_success": "Бонустар сәтті сақталды",
+      "delete_error": "Бонусты жою кезінде қате орын алды",
+      "delete_success": "Бонустар сәтті жойылды",
+      "not_found": "Жүлделер табылмад"
+    },
+    "break_not_found": "",
+    "break": {
+      "delete_success": "Сәтті жойылды",
+      "edit_success": "",
+      "edit_error": "Өзгерту мүмкін емес",
+      "able_to_delete_idle_decline_request": "Күтудегі және рұқсат етілмеген сұрауларды жоюға болады",
+      "reason_empty": "Себеп көрсетілмеген",
+      "date_wrong": "Уақыт дұрыс емес",
+      "type_wrong": "",
+      "request_already_sent": "Сұраныс жіберілді",
+      "request_sent": "Сұраныс жіберілді"
+    },
+    "vacation": {
+      "date_empty": "Күнді таңдаңыз",
+      "date_error": "",
+      "request_success": "Демалыс туралы сұрау сәтті жіберілді",
+      "request_not_found": "Кезекті демалыс табылмады",
+      "no_rest_success": "Сәтті"
+    },
+    "timetable": {
+      "not_found": "Кесте табылмады"
+    },
+    "import": {
+      "success": "Сәтті көшірілді",
+      "empty": "Бұл бос"
+    }
+  }
+}

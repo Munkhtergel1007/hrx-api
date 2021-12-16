@@ -1,0 +1,21 @@
+{
+  "product_routers_all": {
+    "nameError": {
+      "insert": "Атын енгізіңіз"
+    },
+    "assetError": {
+      "insert": "Қосымша өрісті енгізіңіз"
+    },
+    "subAssetError": {
+      "insert": "Ішкі өрісті енгізіңіз"
+    },
+    "categoryError": {
+      "insert": "Санат енгізіңіз"
+    },
+    "subCategoryError": {
+      "insert": "Ішкі санатты енгізіңіз"
+    },
+    "delete_success": "Сәтті жойылды",
+    "delete_error": "Жою сәтсіз аяқталды"
+  }
+}

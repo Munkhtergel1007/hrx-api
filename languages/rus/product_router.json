@@ -1,0 +1,21 @@
+{
+  "product_routers_all": {
+    "nameError": {
+      "insert": "Пожалуйста, введите имя"
+    },
+    "assetError": {
+      "insert": "Пожалуйста, введите дополнительное поле"
+    },
+    "subAssetError": {
+      "insert": "Пожалуйста, введите подполе"
+    },
+    "categoryError": {
+      "insert": "Пожалуйста, введите категорию"
+    },
+    "subCategoryError": {
+      "insert": "Ішкі санатты енгізіңіз- Пожалуйста, введите подкатегорию"
+    },
+    "delete_success": "Успешно удалено",
+    "delete_error": "Не удалось удалить"
+  }
+}

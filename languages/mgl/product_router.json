@@ -1,0 +1,21 @@
+{
+  "product_routers_all": {
+    "nameError": {
+      "insert": "Нэр оруулна уу"
+    },
+    "assetError": {
+      "insert": "Нэмэлт талбар оруулна уу"
+    },
+    "subAssetError": {
+      "insert": "Дэд нэмэлт талбар оруулна уу"
+    },
+    "categoryError": {
+      "insert": "Ангилал оруулна уу"
+    },
+    "subCategoryError": {
+      "insert": "Дэд ангилал оруулна уу"
+    },
+    "delete_success": "Амжилттай устгалаа",
+    "delete_error": "Устгах үйлдэл амжилтгүй боллоо"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "report_routers_all": {
+    "watch_successful": "Амжилттай үзлээ",
+    "title_empty": "Гарчиг оруулна уу.",
+    "choose_employee": "Илгээх ажилтныг оруулна уу",
+    "save_error": "Тайлан хадгалах үед алдаа гарлаа.",
+    "save_success": "Тайланг амжилттай хадгаллаа."
+  }
+}

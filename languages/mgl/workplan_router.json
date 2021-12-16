@@ -1,0 +1,17 @@
+{
+  "workplan_routers_all": {
+    "workplan_edit_error": "Ажлын төлөвлөгөөг хадгалахад алдаа гарлаа",
+    "workplan_edit_success": "Ажлын төлөвлөгөөг амжилттай хадгаллаа",
+    "workplan_month_exists": "Тухайн сард ажлын төлөвлөгөө оруулсан байна",
+    "workplan_delete_error": "Ажлын төлөвлөгөө устгахад алдаа гарлаа",
+    "workplan_delete_success": "Ажлын төлөвлөгөө амжилттай устгагдлаа",
+    "workplan_not_found": "Ажлын төлөвлөгөө олдсонгүй",
+    "workplan_job_edit_error": "Ажлыг хадгалахад алдаа гарлаа",
+    "workplan_job_edit_success": "Ажлыг амжилттай хадгаллаа",
+    "workplan_job_delete_error": "Ажил устгахад алдаа гарлаа",
+    "workplan_job_delete_success": "Ажил амжилттай устгагдлаа",
+    "workplan_job_not_found": "Ажил олдсонгүй",
+    "accepted_job_not_found": "Баталгаажсан ажил олдсонгүй",
+    "percent_required": "Үнэлгээ оруулна уу."
+  }
+}

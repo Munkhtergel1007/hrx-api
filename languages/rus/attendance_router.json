@@ -1,0 +1,9 @@
+{
+  "attendace_routers_all": {
+    "choose_time": "Пожалуйста, выберите время",
+    "check_time": "Пожалуйста, проверьте время",
+    "edit_attendance_error": "Произошла ошибка при сохранении посещаемости",
+    "edit_attendance_success": "Участие прошло успешно",
+    "attendance_not_found": "Посещаемость не найдена"
+  }
+}

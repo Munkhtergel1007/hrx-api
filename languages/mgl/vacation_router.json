@@ -1,0 +1,9 @@
+{
+  "vacation_routers_all": {
+    "vacation_delete_error": "Ээлжийн амралт устгах үед алдаа гарлаа",
+    "vacation_delete_success": "Ээлжийн амралт амжилттай устгагдлаа",
+    "vacation_save_error": "Ээлжийн амралт хадгалах үед алдаа гарлаа",
+    "vacation_save_success": "Ээлжийн амралт амжилттай хадгалагдлаа",
+    "vacation_not_found": "Ээлжийн амралт олдсонгүй"
+  }
+}

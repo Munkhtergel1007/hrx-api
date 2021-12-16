@@ -1,0 +1,16 @@
+{
+  "sell_routers_all": {
+    "paidType_empty": "Ақылы үлгі қажет",
+    "subProduct_empty": "Өнімді таңдаңыз",
+    "quantity_empty": "Саны енгізіңіз",
+    "price_empty": "Бағаны енгізіңіз",
+    "warehouse_empty": "Бағаны енгізіңіз",
+    "not_enough": "Алу жеткіліксіз",
+    "comment_empty": "Түсіндіру қажет",
+    "save_successful": "Сәтті сақталды",
+    "type_wrong": "Түрі дұрыс емес",
+    "priceGot_empty": "Алынған бағаны енгізіңіз",
+    "priceSold_empty": "Сату бағасын енгізіңіз",
+    "inter_empty": "Дебиторлық немесе кредиторлық берешек табылмады"
+  }
+}

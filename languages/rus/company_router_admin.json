@@ -1,0 +1,25 @@
+{
+	"company_routers_admin_all": {
+		"company_or_bundle_not_chosen": "Убедитесь, что вы выбрали правильный пакет или компанию!",
+    "bundle_addition_error": "Произошла ошибка при добавлении пакета",
+    "bundle_addition_success": "Успешный пакет добавлен",
+    "check_bundle_correct": "Убедитесь, что вы выбрали правильный пакет",
+    "domain_repetition": "Адрес домена перекрывается!",
+    "company_creation_error": "Произошла ошибка при создании компании",
+    "company_created": "Компания создана",
+    "user_found": "Потребители пересекаются!",
+    "user_created": "Клиент создан",
+    "user_creation_error": "Ошибка при создании пользователя",
+    "check_user": "Клиентская проверка!",
+    "check_company": "Проверить компанию!",
+    "check_user_role": "Проверяйте права сотрудников!",
+    "company_not_found": "Компания не найдена",
+    "domain_empty": "Введите домен",
+    "name_empty": "Введите имя!",
+    "email_company_empty": "Введите адрес электронной почты / Компания /!",
+    "phone_company_empty": "Введите телефон / Компания /!",
+    "address_empty": "Пожалуйста, введите адрес",
+    "company_edit_error": "Произошла ошибка при обработке информации о компании",
+    "company_edited": "Информация о компании исправлена"
+	}
+}

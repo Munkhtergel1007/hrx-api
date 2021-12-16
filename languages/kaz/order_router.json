@@ -1,0 +1,14 @@
+{
+  "order_routers_all": {
+    "locationError": {
+      "insert": "Мекенжайды енгізіңіз!"
+    },
+    "idError": {
+      "insert": "Идентификаторды енгізіңіз"
+    },
+    "statusError": {
+      "insert": "Статусты енгізіңіз!"
+    },
+    "name_repetition": "Аттар қабаттасады"
+  }
+}

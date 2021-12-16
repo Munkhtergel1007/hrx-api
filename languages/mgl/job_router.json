@@ -1,0 +1,13 @@
+{
+  "job_routers_all": {
+    "job_edit_success": "Ажил амжилттай засагдлаа",
+    "job_edit_error": "Ажил засахад алдаа гарлаа",
+    "job_not_found": "Ажил олдсонгүй",
+    "job_addition_success": "Ажил амжилттай нэмэгдлээ",
+    "job_addition_error": "Ажил нэмэхэд алдаа гарлаа",
+    "job_deletion_error": "Ажил устгахад алдаа гарлаа",
+    "job_deletion_success": "Ажил амжилттай устгагдлаа",
+    "job_worker_addition_success": "Ажилтан амжилттай нэмэгдлээ.",
+    "job_worker_addition_error": "Ажилтан нэмэхэд алдаа гарлаа."
+  }
+}

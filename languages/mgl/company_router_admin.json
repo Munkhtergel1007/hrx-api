@@ -1,0 +1,25 @@
+{
+	"company_routers_admin_all": {
+		"company_or_bundle_not_chosen": "Багц эсвэл компаниа зөв сонгосон эсэхээ шалгана уу!",
+    "bundle_addition_error": "Багц нэмэхэд алдаа гарлаа.",
+    "bundle_addition_success": "Амжилттай багц нэмлээ.",
+    "check_bundle_correct": "Багц зөв сонгосон эсэхээ шалгана уу!",
+    "domain_repetition": "Domain хаяг давхцаж байна!",
+    "company_creation_error": "Компани үүсгэхэд алдаа гарлаа.",
+    "company_created": "Компани үүслээ.",
+    "user_found": "Хэрэглэгч давхцаж байна!",
+    "user_created": "Хэрэглэгч үүслээ.",
+    "user_creation_error": "Хэрэглэгч үүсгэхэд алдаа гарлаа",
+    "check_user": "Хэрэглэгч шалгана уу!",
+    "check_company": "Company шалгана уу!",
+    "check_user_role": "Ажилтны эрх шалгана уу!",
+    "company_not_found": "Компани олдсонгүй",
+    "domain_empty": "Домайн оруулна уу",
+    "name_empty": "Нэр оруулна уу!",
+    "email_company_empty": "Email / Компани / оруулна уу!",
+    "phone_company_empty": "Утас / Компани / оруулна уу!",
+    "address_empty": "Хаяг оруулна уу!",
+    "company_edit_error": "Компанийн мэдээлэл засахад алдаа гарлаа.",
+    "company_edited": "Компанийн мэдээлэл засагдлаа."
+	}
+}

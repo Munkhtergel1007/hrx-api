@@ -1,0 +1,7 @@
+{
+  "salary_routers_all": {
+    "salary_not_found": "Зарплата старомодна",
+    "cannot_change_subsidiary_salary": "Невозможно изменить зарплату дочерней компании",
+    "insert_salary": "Пожалуйста, введите вашу зарплату"
+  }
+}

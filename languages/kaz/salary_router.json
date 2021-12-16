@@ -1,0 +1,7 @@
+{
+  "salary_routers_all": {
+    "salary_not_found": "Жалақы табылмады",
+    "cannot_change_subsidiary_salary": "Еншілес кәсіпорынның жалақысын өзгерту мүмкін емес",
+    "insert_salary": "Жалақыңызды енгізіңіз"
+  }
+}

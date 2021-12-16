@@ -1,0 +1,6 @@
+{
+  "warehouse_routers_all": {
+    "request_not_found": "Сұрау табылмады",
+    "name_repetition": "Атаулар бір-біріне сәйкес келеді"
+  }
+}

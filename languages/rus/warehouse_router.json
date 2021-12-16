@@ -1,0 +1,6 @@
+{
+  "warehouse_routers_all": {
+    "request_not_found": "Запросов не найдено",
+    "name_repetition": "Имена пересекаются"
+  }
+}

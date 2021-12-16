@@ -1,0 +1,6 @@
+{
+  "warehouse_routers_all": {
+    "request_not_found": "Хүсэлт олдсонгүй",
+    "name_repetition": "Нэр давхцаж байна"
+  }
+}

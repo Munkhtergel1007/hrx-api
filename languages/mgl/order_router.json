@@ -1,0 +1,14 @@
+{
+  "order_routers_all": {
+    "locationError": {
+      "insert": "Хаяг оруулна уу!"
+    },
+    "idError": {
+      "insert": "ID оруулна уу"
+    },
+    "statusError": {
+      "insert": "Статус оруулна уу!"
+    },
+    "name_repetition": "Нэр давхцаж байна"
+  }
+}

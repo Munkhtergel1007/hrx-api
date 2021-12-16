@@ -1,0 +1,9 @@
+{
+  "vacation_routers_all": {
+    "vacation_delete_error": "Демалысты жою кезінде қате орын алды",
+    "vacation_delete_success": "Демалыс сәтті жойылды",
+    "vacation_save_error": "Демалысты сақтау кезінде қате орын алды",
+    "vacation_save_success": "Демалыс сәтті сақталды",
+    "vacation_not_found": "Демалыс табылмады"
+  }
+}

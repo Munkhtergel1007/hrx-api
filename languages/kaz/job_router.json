@@ -1,0 +1,13 @@
+{
+  "job_routers_all": {
+    "job_edit_success": "Жұмыс сәтті аяқталды",
+    "job_edit_error": "Жұмыс кезінде қате орын алды",
+    "job_not_found": "Жұмыс табылмады",
+    "job_addition_success": "Жұмыс сәтті қосылды",
+    "job_addition_error": "Жұмысты қосу кезінде қате орын алды",
+    "job_deletion_error": "Жұмыс жою кезінде қате орын алды",
+    "job_deletion_success": "Тапсырма сәтті жойылды",
+    "job_worker_addition_success": "Қызметкерлер сәтті қосылды",
+    "job_worker_addition_error": "Қызметкерді қосу кезінде қате орын алды"
+  }
+}

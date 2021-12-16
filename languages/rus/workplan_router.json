@@ -1,0 +1,17 @@
+{
+  "workplan_routers_all": {
+    "workplan_edit_error": "Произошла ошибка при ведении рабочего плана",
+    "workplan_edit_success": "План работы успешно соблюден",
+    "workplan_month_exists": "План работы на месяц прилагается",
+    "workplan_delete_error": "Произошла ошибка при удалении плана работы",
+    "workplan_delete_success": "План работы успешно удален",
+    "workplan_not_found": "План работы не найден",
+    "workplan_job_edit_error": "Произошла ошибка при сохранении задания",
+    "workplan_job_edit_success": "Работа успешно сохранена",
+    "workplan_job_delete_error": "Произошла ошибка при удалении задания",
+    "workplan_job_delete_success": "Работа была успешно удалена",
+    "workplan_job_not_found": "Вакансий не найдено",
+    "accepted_job_not_found": "Сертифицированной работы не найдено",
+    "percent_required": "Пожалуйста, введите рейтинг"
+  }
+}

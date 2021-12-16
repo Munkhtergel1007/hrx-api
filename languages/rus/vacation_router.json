@@ -1,0 +1,9 @@
+{
+  "vacation_routers_all": {
+    "vacation_delete_error": "Произошла ошибка при удалении отпуска",
+    "vacation_delete_success": "Отпуск успешно отменен",
+    "vacation_save_error": "Произошла ошибка при сохранении отпуска",
+    "vacation_save_success": "Отпуск успешно сохранен",
+    "vacation_not_found": "Отпуска не найдено"
+  }
+}

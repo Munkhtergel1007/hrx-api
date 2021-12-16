@@ -1,0 +1,15 @@
+{
+	"company_routers_all": {
+		"slider_not_found": "Зургийн цомог олдсонгүй.",
+    "image_removal_error": "Зураг хасхад алдаа гарлаа.",
+    "image_removal_success": "Зураг устлаа",
+    "position_goal_empty": "Ажлын байрны гарчиг байх шаардлагатай.",
+    "position_duties_empty": "Ажлын байрны үндсэн чиг үүргүүд байх шаардлагатай.",
+    "position_skills_empty": "Ажлын байранд шаардагдах мэдлэг, ур чадвар байх шаардлагатай.",
+    "position_definition_empty": "Ажлын байрны тодорхойлолт олдсонгүй.",
+    "role_found_job_description": "Тухайн ажлын байрны тодорхойлолтыг ашигласан үүрэг/албан тушаал байна.",
+    "job_description_not_found": "Ажлын байрны тодорхойлолт олдсонгүй",
+    "reference_letter_should_not_be_empty": "Тодорхойлох захидал нь хоосон байж болохгүй",
+    "reference_letter_not_found": "Тодорхойлох захидал олдсонгүй"
+	}
+}

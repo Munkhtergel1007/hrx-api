@@ -1,0 +1,13 @@
+{
+  "job_routers_all": {
+    "job_edit_success": "Работа выполнена успешно",
+    "job_edit_error": "Произошла ошибка при работе",
+    "job_not_found": "Работа не найдена»,",
+    "job_addition_success": "Работа увеличилась успешно",
+    "job_addition_error": "Произошла ошибка при запуске задания",
+    "job_deletion_error": "Произошла ошибка при отмене задания",
+    "job_deletion_success": "Работа успешно отменена",
+    "job_worker_addition_success": "Работа успешно отменена",
+    "job_worker_addition_error": "Произошла ошибка при подключении сотрудника"
+  }
+}
